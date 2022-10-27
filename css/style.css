@@ -1,15 +1,20 @@
 body{
-    background-color: black;
+    background-color: rgb(34, 34, 34);
 }
 .Container{
-    border: 1px solid red;
     width: 900px;
-
+    background-color: rgb(0, 0, 0);
 }.nav{
     background-color: #708090;
-    height: 40px;
+    padding: 1rem;
 }.nav-item{
     color: #fff;
     font-weight: bold;
     text-decoration: none;
+    padding: 0.8rem;
+}main{
+    color: white;
+}footer p{
+    color: white;
+    text-align: center;
 }
