@@ -17,4 +17,6 @@ body{
 }footer p{
     color: white;
     text-align: center;
+}.styltxt{
+    font-style: italic;
 }
